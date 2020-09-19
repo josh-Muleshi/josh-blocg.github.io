@@ -1,6 +1,6 @@
 # josh-blocg.github.io
 
-My hello word React Native app...😉😀😁😎 
+My blog a little website which describe me...😉😀😁😎 
 
 ## Screenshots
 **My first picture**
@@ -9,6 +9,7 @@ My hello word React Native app...😉😀😁😎
 
 ### About me pict 😁
 
+![about-me](https://user-images.githubusercontent.com/60498337/93664723-ed1f0f80-fa68-11ea-8d8b-8b192b47f3ef.PNG)
 
 ### Contact - Let's become friend / About me
 
